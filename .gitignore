@@ -1,0 +1,5 @@
+app/venv/
+app/db.sqlite3
+.idea/
+app/**/*.pyc
+app/*.log
